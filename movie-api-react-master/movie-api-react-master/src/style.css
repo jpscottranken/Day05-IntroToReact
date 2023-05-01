@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    background-image: url("./img/black-background-websites-The-Texture-Suite.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+}
+
+/*  Home Page */
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 10px 20px;
+}
+
+.search-bar {
+    text-align: center;
+    color: white;
+    padding: 0.75rem;
+    margin: 0 5rem;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 0.9rem;
+    padding: 0.5rem 0.75rem;
+    margin: 10px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.75rem;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.card img {
+    width: 100%;
+    object-fit: cover;
+}
+
+/*  Details Page  */
+
+.container {
+    text-align: center;
+}
+
+.main-content {
+    text-align: center;
+}
+
+.main-content img {
+    padding: 1rem;
+}
+
+.movie-details {
+    text-align: left;
+}
+
+/*  Media Queries */
+
+@media (max-width: 800px) {
+    .cards {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .cards {
+        grid-template-columns: 1fr;
+    }
+}

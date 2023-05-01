@@ -1,0 +1,23 @@
+Introduction To JavaScript:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/
+
+Learn ReactJS – Complete Roadmap:
+https://www.freecodecamp.org/news/react-fundamentals-for-beginners/
+
+Brad Traversy (Traversy Media):
+https://www.youtube.com/@TraversyMedia
+
+David Gray, Projects, Tips, & Tutorials: 
+https://www.youtube.com/@DaveGrayTeachesCode
+
+Code with Ania Kubów:
+https://www.youtube.com/@AniaKubow
+
+Mozilla Home Page:
+https://developer.mozilla.org/en-US/
+
+W3Schools JavaScript Tutorial:
+https://www.w3schools.com/js/default.asp
+
+W3Schools React Tutorial:
+https://www.w3schools.com/react/default.asp
